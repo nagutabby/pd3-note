@@ -19,6 +19,10 @@
 
 = 2023年度PD3
 
+== リポジトリ
+* https://github.com/nagutabby/senior-thesis[リサーチプロポーザルと卒論]
+* https://github.com/nagutabby/pd3-note[PD3のメモ]
+
 == 4/17
 * 活動時間: 180分
 * 被指導時間: 120分
