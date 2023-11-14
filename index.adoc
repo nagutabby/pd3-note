@@ -23,6 +23,23 @@
 * https://github.com/nagutabby/senior-thesis[リサーチプロポーザルと卒論]
 * https://github.com/nagutabby/pd3-note[PD3のメモ]
 
+== Wiki
+* 読んだ論文
+** https://github.com/nagutabby/senior-thesis/wiki/Bringing-the-Web-up-to-Speed-with-WebAssembly[Bringing the Web up to Speed with WebAssembly]
+** https://github.com/nagutabby/senior-thesis/wiki/Everything-Old-is-New-Again:-Binary-Security-of-WebAssembly[Everything Old is New Again: Binary Security of WebAssembly]
+** https://github.com/nagutabby/senior-thesis/wiki/Forming-a-5G-Strategy-for-Developing-Countries:-A-Note-for-Policy-Makers[Forming a 5G Strategy for Developing Countries: A Note for Policy Makers]
+** https://github.com/nagutabby/senior-thesis/wiki/Impact-of-Progressive-Web-Apps-on-Web-App-Development[Impact of Progressive Web Apps on Web App Development]
+** https://github.com/nagutabby/senior-thesis/wiki/Not-So-Fast:-Analyzing-the-Performance-of-WebAssembly-vs.-Native-Code[Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code]
+** https://github.com/nagutabby/senior-thesis/wiki/OpenCV.js:-computer-vision-processing-for-the-open-web-platform[OpenCV.js: computer vision processing for the open web platform]
+** https://github.com/nagutabby/senior-thesis/wiki/Progressive-Web-Apps-for-the-Unified-Development-of-Mobile-Applications[Progressive Web Apps for the Unified Development of Mobile Applications]
+** https://github.com/nagutabby/senior-thesis/wiki/Progressive-Web-Apps:-the-Definite-Approach-to-Cross%E2%80%90Platform-Development%3F[Progressive Web Apps: the Definite Approach to Cross‐Platform Development?]
+* https://github.com/nagutabby/senior-thesis/wiki/Chrome,-Edge,-Safari,-Firefox%E3%81%AE%E7%89%B9%E5%BE%B4[Chrome, Edge, Safari, Firefoxの特徴]
+* https://github.com/nagutabby/senior-thesis/wiki/Facts-and-Figures-2022[Facts and Figures 2022]
+* https://github.com/nagutabby/senior-thesis/wiki/Lighthouse%E3%81%AE%E3%83%A1%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9[Lighthouseのメトリクス]
+* https://github.com/nagutabby/senior-thesis/wiki/Web-API[Web API]
+* https://github.com/nagutabby/senior-thesis/wiki/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E9%80%9A%E4%BF%A1%E3%81%AE%E4%B8%96%E4%BB%A3%E3%81%A8%E7%8F%BE%E7%8A%B6[モバイル通信の世代と現状]
+* https://github.com/nagutabby/senior-thesis/wiki/%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E7%99%BD%E6%9B%B8%E4%BB%A4%E5%92%8C5%E5%B9%B4%E7%89%88[情報通信白書令和5年版]
+
 == 4/17
 * 活動時間: 180分
 * 被指導時間: 120分
