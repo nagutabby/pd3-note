@@ -1,0 +1,73 @@
+:Encoding:  utf-8
+:Lang:      ja
+:Author:    工大太郎
+:Email:     example@neptune.kanazawa-it.ac.jp
+
+:scripts: cjk
+:pdf-theme: default-with-fallback-font
+
+:toc: left
+:toclevels: 3
+:toc-title: 目次
+:sectnums:
+:sectnumlevels: 4
+:sectlinks:
+
+:example-caption: 例
+:table-caption: 表
+:figure-caption: 図
+:data-uri:
+
+= 2023年度PD3
+
+== 4月6日
+
+=== 活動時間
+
+2時間
+
+=== 被指導時間
+
+2時間
+
+=== 内容
+
+新学期オリエンテーションを行った．
+
+例えば図表の挿入方法など，
+研究日誌の書き方を学んだ．
+
+.例の画像
+image::fig/example.jpg[例の画像]
+
+
+.例の表
+[format="csv", options="header"]
+|===
+学籍番号,国語,数学,理科,社会,英語
+us3007435,77,74,75,75,75
+us3014196,72,70,75,93,80
+us3014783,79,79,72,99,87
+us3017635,84,63,66,97,96
+us3020955,84,72,81,86,70
+us3023201,87,75,74,100,81
+|===
+
+== 4月7日
+
+=== 活動時間
+
+
+=== 被指導時間
+
+=== 内容
+
+== 4月17日
+
+=== 活動時間
+
+=== 被指導時間
+
+=== 内容
+
+
