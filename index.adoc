@@ -1,73 +1,89 @@
-:Encoding:  utf-8
-:Lang:      ja
-:Author:    工大太郎
-:Email:     example@neptune.kanazawa-it.ac.jp
+:encoding: utf-8
+:lang: ja
+:author: 笹川 尋翔
+:email: nagutabby@nagutabby.uk
 
 :scripts: cjk
 :pdf-theme: default-with-fallback-font
+:last-update-label!:
 
 :toc: left
 :toclevels: 3
 :toc-title: 目次
-:sectnums:
-:sectnumlevels: 4
-:sectlinks:
 
 :example-caption: 例
 :table-caption: 表
 :figure-caption: 図
-:data-uri:
+
+:source-highlighter: highlight.js
 
 = 2023年度PD3
 
-== 4月6日
+== 4/17
+* 活動時間: 180分
+* 被指導時間: 120分
 
-=== 活動時間
+=== 春休みに行った活動の報告
+* コンピュータの時刻同期がどのように行われているのかを調べた
+** https://blog.nagutabby.uk/how-time-synchronization-works
 
-2時間
+=== 大学と大学院で行う研究のテーマ決め
+* メッシュネットワークを前提とするならば、近隣ノードから得られるデータを使ってシステムクロックを補正するアルゴリズムを考えるのはどうか？
 
-=== 被指導時間
+== 4/19
+* 活動時間: 300分
+* 被指導時間: 0分
 
-2時間
+=== シミュレータの調査
+* NS-3
+** https://gitlab.com/nsnam/ns-3-dev/
+** オープンソース
+** C++で書かれているため処理が高速
 
-=== 内容
+* OMNeT++
+** https://github.com/omnetpp/omnetppense
+**オープンソースではない
+*** 非営利目的で使用する場合のみ、無料で利用できる
+** Java、C、C++で書かれているためNS-3よりも処理が遅い
 
-新学期オリエンテーションを行った．
+== 4/20
+* 活動時間: 300分
+* 被指導時間: 0分
 
-例えば図表の挿入方法など，
-研究日誌の書き方を学んだ．
+=== NS-3をMacOSにインストールできるかどうか試す(1回目)
 
-.例の画像
-image::fig/example.jpg[例の画像]
+* 検証環境
+** M1 Pro
+** MacOS Ventura
+* 結果: インストールできなかった
+**  公式のインストール手順: https://www.nsnam.org/wiki/Installation
 
+== 4/24
+* 活動時間: 420分
+* 被指導時間: 0分
 
-.例の表
-[format="csv", options="header"]
-|===
-学籍番号,国語,数学,理科,社会,英語
-us3007435,77,74,75,75,75
-us3014196,72,70,75,93,80
-us3014783,79,79,72,99,87
-us3017635,84,63,66,97,96
-us3020955,84,72,81,86,70
-us3023201,87,75,74,100,81
-|===
+=== NS-3をUbuntuにインストールできるかどうか試す
 
-== 4月7日
+* 検証環境
+** Ubuntu 23.04
+* 結果: インストールできた
 
-=== 活動時間
+=== NS-3をMacOSにインストールできるかどうか試す(2回目)
 
+* 検証環境
+** M1 Pro
+** MacOS Ventura
+* 結果: インストールできた
 
-=== 被指導時間
+=== インストール時に参照していたリファレンスが古かったことに気付いた
+* 最新のリファレンス: https://www.nsnam.org/documentation/
 
-=== 内容
+== 4/26
+* 活動時間: 420分
+* 被指導時間: 0分
 
-== 4月17日
-
-=== 活動時間
-
-=== 被指導時間
-
-=== 内容
-
-
+=== Webアプリのアクセシビリティについて調べる
+* WAI-ARIAという仕様があることを知った
+** https://developer.mozilla.org/ja/docs/Web/Accessibility/ARIA
+* ブログにまとめた
+** https://blog.nagutabby.uk/how-to-improve-accessibility-of-website
